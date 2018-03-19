@@ -26,7 +26,7 @@ button {
 }
 .home-header-img {
 	background-color: #433974;
-	background-image: url("http://jamesrosal.com/img/home-header.jpg");
+	background-image: url("img/home-header.jpg");
 	background-size: cover;
 	background-position: center center; 
 	background-repeat: no-repeat; 
@@ -100,7 +100,7 @@ img.box-shadow {
 }
 .home-header-img {
 	background-color: #433974;
-	background-image: url("http://jamesrosal.com/img/home-header.jpg");
+	background-image: url("img/home-header.jpg");
 	background-size: 250%;
 	background-position: center center; 
 	background-repeat: no-repeat; 
