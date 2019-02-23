@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Development - James Rosal | Front-End Developer &amp; Designer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="James Rosal | Front-End Developer + Designer" />
+  <meta name="keywords" content="James Rosal, web designer, branding, user interface, design, user experience, startups">
+  <link rel="canonical" href="http://jamesrosal.com/" />
+  <link rel="author" href="https://jamesrosal.com"/>
+  <meta property='og:locale' content='en_US'/>
+  <meta property='og:title' content='James Rosal | Front-End Developer &amp; Designer'/>
+  <meta property='og:url' content='http://jamesrosal.com/'/>
+  <meta property='og:site_name' content='James Rosal'/>
+  <meta property="og:image" content="img/jr.jpg">
+  <meta property='og:type' content='website'/>
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@jamesrosal_">
+  <meta name="twitter:creator" content="@jamesrosal_">
+  <meta name="twitter:url" content="http://jamesrosal.com">
+  <meta name="twitter:title" content="James Rosal">
+  <meta name="twitter:description" content="James Rosal - Developer + Designer">
+  <meta name="twitter:image" content="img/jr.jpg">
+  <meta name="twitter:domain" content="http://jamesrosal.com">
+  <link rel="icon" href="img/jr.ico" sizes="16x16" type="img/jr.ico">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
+  <script src="https://use.fontawesome.com/eca60e1bdb.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" integrity="sha384-OHBBOqpYHNsIqQy8hL1U+8OXf9hH6QRxi0+EODezv82DfnZoV7qoHAZDwMwEJvSw" crossorigin="anonymous">	
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body class="text-center">
+<div class="container-fluid fixed-top" style="background-color: white;">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand font-weight-bold px-2" href="/"><h2>James Rosal</h2></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item px-2 active">
+            <a class="nav-link" href="/development">Development</a>
+          </li>
+          <li class="nav-item px-2">
+            <a class="nav-link" href="/design">Design</a>
+          </li>
+        </ul>
+        <hr class="hr-line">
+        <span class="navbar-text">
+          <a href="mailto:jamesfrosal@gmail.com" class="px-2 border-right" target="_blank"><i class="fa fa-envelope fa-1x fa-fw"></i> jamesfrosal@gmail.com</a><br class="break" />
+          <a href="http://dribbble.com/jamesrosal" target="_blank"><i class="fa fa-dribbble fa-1x fa-fw"></i></a>
+          <a href="https://www.behance.net/jamesrosal" target="_blank"><i class="fa fa-behance fa-1x fa-fw"></i></a>
+          <a href="http://github.com/jamesrosal" target="_blank"><i class="fa fa-github fa-1x fa-fw"></i></a>
+          <a href="http://twitter.com/jamesrosal_" target="_blank"><i class="fa fa-twitter fa-1x fa-fw"></i></a>
+          <a href="http://instagram.com/jamesrosal_" target="_blank"><i class="fa fa-instagram fa-1x fa-fw"></i></a>
+          <a href="http://linkedin.com/in/jamesrosal" target="_blank"><i class="fa fa-linkedin fa-1x fa-fw"></i></a>
+        </span>
+      </div>
+    </nav>
+  </div>        
+</div>
+<div class="container-fluid py-5 mt-5" style="background-color: #433974;">
+    <div class="container">
+      <div class="row d-flex justify-content-center">
+        <div class="col-lg-10 text-light py-5 my-5 animated fadeIn">
+          <h1 class="font-weight-bold text-light r-title">Development</h1>      
+          <h3 class="r-description">
+          	Creating and building easy-to-use, well thought out website designs that have direction and purpose.
+          </h3>
+        </div>
+      </div>
+    </div>
+</div>
+<div class="container-fluid d-flex justify-content-center">
+	<div class="container py-5 no-gutters">
+		<h2 class="font-weight-bold py-4">Recent Work</h2>
+		<div class="row no-gutters">
+			<div class="col-12 col-lg-4 py-4 py-lg-4 px-0 px-lg-4">
+				<img src="img/dev/1.jpg" class="img-fluid box-shadow" />
+			</div>
+			<div class="col-12 col-lg-4 py-4 py-lg-4 px-0 px-lg-4">
+				<img src="img/dev/2.jpg" class="img-fluid box-shadow" />
+			</div>
+			<div class="col-12 col-lg-4 py-4 py-lg-4 px-0 px-lg-4">
+				<img src="img/dev/3.jpg" class="img-fluid box-shadow" />
+			</div>
+			<div class="col-12 col-lg-4 py-4 py-lg-4 px-0 px-lg-4">
+				<img src="img/dev/4.jpg" class="img-fluid box-shadow" />
+			</div>
+			<div class="col-12 col-lg-4 py-4 py-lg-4 px-0 px-lg-4">
+				<img src="img/dev/5.jpg" class="img-fluid box-shadow" />
+			</div>
+			<div class="col-12 col-lg-4 py-4 py-lg-4 px-0 px-lg-4">
+				<img src="img/dev/6.jpg" class="img-fluid box-shadow" />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container py-5">
+  <div class="row d-flex justify-content-center">
+    <div class="col-lg-8">
+      <a href="mailto:jamesfrosal@gmail.com" target="_blank"><button type="button" class="btn btn-info btn-lg mb-3"><i class="fa fa-envelope fa-1x fa-fw"></i> jamesfrosal@gmail.com</button></a><br />
+      <a href="http://dribbble.com/jamesrosal" target="_blank"><i class="fa fa-dribbble fa-4x fa-fw"></i></a>
+      <a href="https://www.behance.net/jamesrosal" target="_blank"><i class="fa fa-behance fa-4x fa-fw"></i></a>
+      <a href="http://github.com/jamesrosal" target="_blank"><i class="fa fa-github fa-4x fa-fw"></i></a>
+      <a href="http://twitter.com/jamesrosal_" target="_blank"><i class="fa fa-twitter fa-4x fa-fw"></i></a>
+      <a href="http://instagram.com/jamesrosal_" target="_blank"><i class="fa fa-instagram fa-4x fa-fw"></i></a>
+      <a href="http://linkedin.com/in/jamesrosal" target="_blank"><i class="fa fa-linkedin fa-4x fa-fw"></i></a>
+    </div>
+  </div>
+</div>
+<div class="container-fluid py-5">
+  <div class="row">
+    <div class="col-lg-12">
+      &copy; James Rosal 2018
+    </div>
+  </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
