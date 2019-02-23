@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www.jamesrosal.com [NC]
-RewriteRule ^(.*)$ http://james.com/$1 [L,R=301]
