@@ -4,7 +4,7 @@ a:visited {color: #232323;text-decoration: none;}
 a:hover {color: #17a2b8 !important;text-decoration: none;transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;}
 a:active {color: #232323;text-decoration: underline;}
 button {vertical-align: bottom !important;}
-.home-header-img {background-color: #433974;background-image: url("https://gdurl.com/VlPy");background-size: cover;background-position: center center; background-repeat: no-repeat; height: 768px;padding: 0px !important;}
+.home-header-img {background-color: #433974;background-image: url("https://gdurl.com/VlPy");background-size: cover;background-position: center center; background-repeat: no-repeat; height: 85vh;padding: 0px !important;}
 .header-overlay {background-color: rgba(0,0,0,0.4); height: 100%;}
 .job-title {text-shadow: 0px 3px 0px #1f1622;font-size: 3em;}
 .job-description {text-shadow: 0px 3px 0px #1f1622;font-weight: 300;}
